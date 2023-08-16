@@ -10,7 +10,7 @@ registerLocaleData(localeEsHn);
 registerLocaleData(localeFrCa);
 
 @Component({
-  selector: 'app-basic-page',
+  selector: 'products-basic-page',
   templateUrl: './basic-page.component.html',
   styleUrls: ['./basic-page.component.css']
 })
